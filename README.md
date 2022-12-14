@@ -1,5 +1,5 @@
 # Catppuccin Mocha Theme for SpeedCrunch
-A Catpuccin theme for Speedcrunch that totally ignores the Catpuccin style guide.
+A Catppuccin theme for Speedcrunch that totally ignores the Catppuccin style guide.
 
 ## Installation
 
